@@ -30,7 +30,7 @@ public class ExceptionApp1 {
 		 * 	try 블록의 수행문에서 예외클래스명1에 해당되는 예외가 발생하면
 		 * 	첫번째 catch 블록에서 해당 예외를 가로채고 변수명1에 대입한다.
 		 * 
-		 * 
+		 * ㅇㅇㅇㅇㅇㅇㅇ
 		 */
 		try {
 			FileWriter writer =  new FileWriter("src/sample01/sample01.txt");
